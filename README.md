@@ -1,5 +1,7 @@
 # Hi, I'm Lorenzo Aghilar
 
+**Computer Engineer | Automation & Control Systems**
+
 MSc graduate in Automation and Intelligent Cyber-Physical Systems from Politecnico di Torino, with a Bachelor's degree in Computer Engineering.
 
 My main interests are **control systems, optimization, and system identification**, with a focus on Model Predictive Control (MPC), nonlinear control, and optimization algorithms. Through academic and research projects, I have gained hands-on experience in control design, numerical optimization, machine learning, and systems programming.
